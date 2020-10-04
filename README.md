@@ -5,4 +5,5 @@ within a period of seven days we will be giving some machine learning fundamenta
 1. python coding
 2. basic matplotlib and pandas tutorials
 3. exploratory data analysis
-4. Data visualizay=tion
+4. Data visualization
+5. Transfer learning basic project
